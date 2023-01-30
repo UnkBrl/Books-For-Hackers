@@ -4,6 +4,8 @@ The list:
 
 1. Linux Basic for Hackers
   - This is a 2018 AD book. It is a beginner guide book to use linux it is very easy. Linix(especially kali linux) operating system is essential for hacking. If you have a Windows OS then, you can download download and run kali linux in a virtual machine.
+
+
  
 2. Black Hat Python
   - You might be familiar with easiest programming language python. For being a hacker you have to learn a programming language. I recommend learning python as it is the easiest. This book is a guide to use python for hacking purposes.
