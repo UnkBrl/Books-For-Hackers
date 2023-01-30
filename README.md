@@ -32,7 +32,7 @@ The list:
 NOTE : Use these books in ethical way only!!
 
 I recommend buying these books from amazon.com 
-You can download these from release tab but it may be outdated so better to download latest from others website.
+You can download these from release tab but it may be outdated so better to download the latest from others website.
 
 
 RECOMMENDED:
