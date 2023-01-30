@@ -29,7 +29,7 @@ The list:
   - All about Bug Bounty Hunting its mainly focoused on web applications.
   
   
-NOTE : Use these books in ethical way only!!
+NOTE : Use these books in ethical way only!! .
 
 I recommend buying these books from amazon.com 
 You can download these from release tab but it may be outdated so better to download latest from others website.
